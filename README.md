@@ -166,13 +166,15 @@ Por eso decidí desarrollar este puente para Android TV, intentando llevar la ex
 
 Quiero dejar en claro que este proyecto NO está afiliado a PelisJuanita ni reemplaza su trabajo. Mi aporte consiste únicamente en facilitar el acceso desde dispositivos Android TV, soy meramente un PUENTE. Todo el mérito por la plataforma y el enorme trabajo detrás de ella corresponde a sus creadores.
 
-Nota sobre la conectividad
+* Nota sobre la conectividad *
 
 En algunas regiones o proveedores de Internet, el acceso a PelisJuanita puede presentar inconvenientes de resolución DNS. Personalmente, he obtenido mejores resultados utilizando los servidores DNS públicos de Google
 
 Sin embargo, esto puede variar según el país, el proveedor o las condiciones de red de cada usuario.
 
-Un dato mas! Si tienen problemas con CloudFlare, deben dejar que cargue y luego tocar el boton para continuar, dependiendo de su televisor, puede tardar poco o mucho.
+* UN DATO MAS! ✅🚀
+  
+Si tienen problemas con CloudFlare, deben dejar que cargue y luego tocar el boton (o esperar) para continuar y que el detecte que no son un bot, dependiendo de su televisor, puede tardar poco o mucho.
 
 Espero que este proyecto pueda ser útil para otras personas que, como yo, simplemente buscaban una mejor experiencia para disfrutar contenido desde el televisor.
 

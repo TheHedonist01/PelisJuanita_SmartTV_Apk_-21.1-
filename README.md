@@ -158,12 +158,24 @@ Run > Run App
 
 **Mauro G. Martínez**
 
-Este proyecto lo hice debido que mis padres usualmente usan la plataforma "PelisJuanita" pero la querian en un televisor y los smartv son RIDICULAMENTE malos con los browsers, asi que hice este puente, lo mas optimizado posible.
+Este proyecto nació por una necesidad muy simple: mis padres utilizan habitualmente PelisJuanita, pero querían disfrutarla desde el televisor. Después de probar distintos navegadores en Smart TVs, me encontré con una realidad aplastante: la experiencia suele HORRIBLE, INCOMODA y poco amigable para usar con un control remoto.
 
-Obviamente lo mio es simplemente un puente para llegar a PelisJuanita, todas las alavanzas van hacia ella y su proyecto extraordinario.
+Por eso decidí desarrollar este puente para Android TV, intentando llevar la experiencia lo más cerca posible de una aplicación nativa, con navegación optimizada, soporte para control remoto y reproducción multimedia en pantalla completa.
 
-Dicho esto, usualmente pelisJuanita tiene problemas de conexion debido a problemas de bloqueo, asi que usualmente uso el DNS de Google, ese mismo me funciona en vez de usar el de mi ISP tradicional.
-Un Abrazo y espero que esto le ayude a otra persona como yo ahi afuera.
+Quiero dejar en claro que este proyecto NO está afiliado a PelisJuanita ni reemplaza su trabajo. Mi aporte consiste únicamente en facilitar el acceso desde dispositivos Android TV, soy meramente un PUENTE. Todo el mérito por la plataforma y el enorme trabajo detrás de ella corresponde a sus creadores.
+
+Nota sobre la conectividad
+
+En algunas regiones o proveedores de Internet, el acceso a PelisJuanita puede presentar inconvenientes de resolución DNS. Personalmente, he obtenido mejores resultados utilizando los servidores DNS públicos de Google:
+
+8.8.8.8
+8.8.4.4
+
+Sin embargo, esto puede variar según el país, el proveedor o las condiciones de red de cada usuario.
+
+Espero que este proyecto pueda ser útil para otras personas que, como yo, simplemente buscaban una mejor experiencia para disfrutar contenido desde el televisor.
+
+¡Un abrazo y gracias por probar la aplicación! 📺🚀
 
 ---
 

@@ -159,9 +159,9 @@ Run > Run App
 **Mauro G. Martínez**
 
 Este proyecto lo hice debido que mis padres usualmente usan la plataforma "PelisJuanita" pero la querian en un televisor y los smartv son RIDICULAMENTE malos con los browsers, asi que hice este puente, lo mas optimizado posible.
--
+
 Obviamente lo mio es simplemente un puente para llegar a PelisJuanita, todas las alavanzas van hacia ella y su proyecto extraordinario.
--
+
 Dicho esto, usualmente pelisJuanita tiene problemas de conexion debido a problemas de bloqueo, asi que usualmente uso el DNS de Google, ese mismo me funciona en vez de usar el de mi ISP tradicional.
 Un Abrazo y espero que esto le ayude a otra persona como yo ahi afuera.
 

@@ -166,12 +166,11 @@ Quiero dejar en claro que este proyecto NO está afiliado a PelisJuanita ni reem
 
 Nota sobre la conectividad
 
-En algunas regiones o proveedores de Internet, el acceso a PelisJuanita puede presentar inconvenientes de resolución DNS. Personalmente, he obtenido mejores resultados utilizando los servidores DNS públicos de Google:
-
-8.8.8.8
-8.8.4.4
+En algunas regiones o proveedores de Internet, el acceso a PelisJuanita puede presentar inconvenientes de resolución DNS. Personalmente, he obtenido mejores resultados utilizando los servidores DNS públicos de Google
 
 Sin embargo, esto puede variar según el país, el proveedor o las condiciones de red de cada usuario.
+
+Un dato mas! Si tienen problemas con CloudFlare, deben dejar que cargue y luego tocar el boton para continuar, dependiendo de su televisor, puede tardar poco o mucho.
 
 Espero que este proyecto pueda ser útil para otras personas que, como yo, simplemente buscaban una mejor experiencia para disfrutar contenido desde el televisor.
 

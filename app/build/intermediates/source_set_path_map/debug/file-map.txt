@@ -1,0 +1,7 @@
+com.pelisj.app-pngs-0 D:\PROGRAMAS\PelisJunita APK\PelisJuanita2 6.2\app\build\generated\res\pngs\debug
+com.pelisj.app-resValues-1 D:\PROGRAMAS\PelisJunita APK\PelisJuanita2 6.2\app\build\generated\res\resValues\debug
+com.pelisj.app-packageDebugResources-2 D:\PROGRAMAS\PelisJunita APK\PelisJuanita2 6.2\app\build\intermediates\incremental\debug\packageDebugResources\merged.dir
+com.pelisj.app-packageDebugResources-3 D:\PROGRAMAS\PelisJunita APK\PelisJuanita2 6.2\app\build\intermediates\incremental\debug\packageDebugResources\stripped.dir
+com.pelisj.app-merged_res-4 D:\PROGRAMAS\PelisJunita APK\PelisJuanita2 6.2\app\build\intermediates\merged_res\debug
+com.pelisj.app-debug-5 D:\PROGRAMAS\PelisJunita APK\PelisJuanita2 6.2\app\src\debug\res
+com.pelisj.app-main-6 D:\PROGRAMAS\PelisJunita APK\PelisJuanita2 6.2\app\src\main\res

@@ -1,0 +1,38 @@
+{
+    "logs": [
+        {
+            "outputFile": "com.pelisj.app-debug-4:/values_values.arsc.flat",
+            "map": [
+                {
+                    "source": "D:\\PROGRAMAS\\PelisJunita APK\\PelisJuanita2 6.2\\app\\src\\main\\res\\values\\strings.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "50",
+                        "endOffsets": "101"
+                    }
+                },
+                {
+                    "source": "D:\\PROGRAMAS\\PelisJunita APK\\PelisJuanita2 6.2\\app\\src\\main\\res\\values\\styles.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endLines": "6",
+                        "endColumns": "12",
+                        "endOffsets": "330"
+                    },
+                    "to": {
+                        "startLines": "3",
+                        "startColumns": "4",
+                        "startOffsets": "106",
+                        "endLines": "7",
+                        "endColumns": "12",
+                        "endOffsets": "381"
+                    }
+                }
+            ]
+        }
+    ]
+}

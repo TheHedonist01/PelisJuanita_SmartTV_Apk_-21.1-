@@ -1,0 +1,38 @@
+[
+    {
+        "merged": "com.pelisj.app-debug-4:/drawable_fondo_app.png.flat",
+        "source": "com.pelisj.app-main-6:/drawable/fondo_app.png"
+    },
+    {
+        "merged": "com.pelisj.app-debug-4:/layout_activity_main.xml.flat",
+        "source": "com.pelisj.app-main-6:/layout/activity_main.xml"
+    },
+    {
+        "merged": "com.pelisj.app-debug-4:/layout_splash.xml.flat",
+        "source": "com.pelisj.app-main-6:/layout/splash.xml"
+    },
+    {
+        "merged": "com.pelisj.app-debug-4:/mipmap-mdpi_ic_launcher.png.flat",
+        "source": "com.pelisj.app-main-6:/mipmap-mdpi/ic_launcher.png"
+    },
+    {
+        "merged": "com.pelisj.app-debug-4:/mipmap-xhdpi_ic_launcher.png.flat",
+        "source": "com.pelisj.app-main-6:/mipmap-xhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "com.pelisj.app-debug-4:/mipmap-hdpi_ic_launcher.png.flat",
+        "source": "com.pelisj.app-main-6:/mipmap-hdpi/ic_launcher.png"
+    },
+    {
+        "merged": "com.pelisj.app-debug-4:/drawable_cursor_shape.xml.flat",
+        "source": "com.pelisj.app-main-6:/drawable/cursor_shape.xml"
+    },
+    {
+        "merged": "com.pelisj.app-debug-4:/mipmap-xxxhdpi_ic_launcher.png.flat",
+        "source": "com.pelisj.app-main-6:/mipmap-xxxhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "com.pelisj.app-debug-4:/mipmap-xxhdpi_ic_launcher.png.flat",
+        "source": "com.pelisj.app-main-6:/mipmap-xxhdpi/ic_launcher.png"
+    }
+]

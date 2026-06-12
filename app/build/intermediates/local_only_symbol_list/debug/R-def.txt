@@ -1,0 +1,14 @@
+R_DEF: Internal format may change without notice
+local
+drawable cursor_shape
+id root_layout
+id splash_content
+id splash_layout
+id splash_subtitle
+id splash_title
+id webview
+layout activity_main
+layout splash
+mipmap ic_launcher
+string app_name
+style AppTheme

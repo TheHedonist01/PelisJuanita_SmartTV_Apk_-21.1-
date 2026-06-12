@@ -1,0 +1,88 @@
+1<?xml version="1.0" encoding="utf-8"?>
+2<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+3    package="com.pelisj.app"
+4    android:versionCode="2"
+5    android:versionName="2.0" >
+6
+7    <uses-sdk
+8        android:minSdkVersion="21"
+9        android:targetSdkVersion="34" />
+10
+11    <uses-permission android:name="android.permission.INTERNET" />
+11-->D:\PROGRAMAS\PelisJunita APK\PelisJuanita2 6.2\app\src\main\AndroidManifest.xml:5:5-67
+11-->D:\PROGRAMAS\PelisJunita APK\PelisJuanita2 6.2\app\src\main\AndroidManifest.xml:5:22-64
+12    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
+12-->D:\PROGRAMAS\PelisJunita APK\PelisJuanita2 6.2\app\src\main\AndroidManifest.xml:6:5-79
+12-->D:\PROGRAMAS\PelisJunita APK\PelisJuanita2 6.2\app\src\main\AndroidManifest.xml:6:22-76
+13
+14    <uses-feature
+14-->D:\PROGRAMAS\PelisJunita APK\PelisJuanita2 6.2\app\src\main\AndroidManifest.xml:8:5-91
+15        android:name="android.hardware.touchscreen"
+15-->D:\PROGRAMAS\PelisJunita APK\PelisJuanita2 6.2\app\src\main\AndroidManifest.xml:8:19-62
+16        android:required="false" />
+16-->D:\PROGRAMAS\PelisJunita APK\PelisJuanita2 6.2\app\src\main\AndroidManifest.xml:8:64-88
+17    <uses-feature
+17-->D:\PROGRAMAS\PelisJunita APK\PelisJuanita2 6.2\app\src\main\AndroidManifest.xml:9:5-91
+18        android:name="android.software.leanback"
+18-->D:\PROGRAMAS\PelisJunita APK\PelisJuanita2 6.2\app\src\main\AndroidManifest.xml:9:19-59
+19        android:required="false" />
+19-->D:\PROGRAMAS\PelisJunita APK\PelisJuanita2 6.2\app\src\main\AndroidManifest.xml:9:64-88
+20
+21    <application
+21-->D:\PROGRAMAS\PelisJunita APK\PelisJuanita2 6.2\app\src\main\AndroidManifest.xml:11:5-40:19
+22        android:allowBackup="true"
+22-->D:\PROGRAMAS\PelisJunita APK\PelisJuanita2 6.2\app\src\main\AndroidManifest.xml:12:9-35
+23        android:banner="@drawable/fondo_app"
+23-->D:\PROGRAMAS\PelisJunita APK\PelisJuanita2 6.2\app\src\main\AndroidManifest.xml:14:9-45
+24        android:debuggable="true"
+25        android:extractNativeLibs="true"
+26        android:icon="@drawable/fondo_app"
+26-->D:\PROGRAMAS\PelisJunita APK\PelisJuanita2 6.2\app\src\main\AndroidManifest.xml:13:9-43
+27        android:label="@string/app_name"
+27-->D:\PROGRAMAS\PelisJunita APK\PelisJuanita2 6.2\app\src\main\AndroidManifest.xml:15:9-41
+28        android:theme="@style/AppTheme"
+28-->D:\PROGRAMAS\PelisJunita APK\PelisJuanita2 6.2\app\src\main\AndroidManifest.xml:16:9-40
+29        android:usesCleartextTraffic="true" >
+29-->D:\PROGRAMAS\PelisJunita APK\PelisJuanita2 6.2\app\src\main\AndroidManifest.xml:17:9-44
+30        <activity
+30-->D:\PROGRAMAS\PelisJunita APK\PelisJuanita2 6.2\app\src\main\AndroidManifest.xml:19:9-39:20
+31            android:name="com.pelisj.app.MainActivity"
+31-->D:\PROGRAMAS\PelisJunita APK\PelisJuanita2 6.2\app\src\main\AndroidManifest.xml:20:13-41
+32            android:configChanges="keyboard|keyboardHidden|orientation|screenSize|uiMode"
+32-->D:\PROGRAMAS\PelisJunita APK\PelisJuanita2 6.2\app\src\main\AndroidManifest.xml:21:13-90
+33            android:exported="true"
+33-->D:\PROGRAMAS\PelisJunita APK\PelisJuanita2 6.2\app\src\main\AndroidManifest.xml:22:13-36
+34            android:label="@string/app_name"
+34-->D:\PROGRAMAS\PelisJunita APK\PelisJuanita2 6.2\app\src\main\AndroidManifest.xml:23:13-45
+35            android:launchMode="singleTask"
+35-->D:\PROGRAMAS\PelisJunita APK\PelisJuanita2 6.2\app\src\main\AndroidManifest.xml:24:13-44
+36            android:screenOrientation="landscape" >
+36-->D:\PROGRAMAS\PelisJunita APK\PelisJuanita2 6.2\app\src\main\AndroidManifest.xml:25:13-50
+37
+38            <!-- Android TV launcher -->
+39            <intent-filter>
+39-->D:\PROGRAMAS\PelisJunita APK\PelisJuanita2 6.2\app\src\main\AndroidManifest.xml:28:13-31:29
+40                <action android:name="android.intent.action.MAIN" />
+40-->D:\PROGRAMAS\PelisJunita APK\PelisJuanita2 6.2\app\src\main\AndroidManifest.xml:29:17-69
+40-->D:\PROGRAMAS\PelisJunita APK\PelisJuanita2 6.2\app\src\main\AndroidManifest.xml:29:25-66
+41
+42                <category android:name="android.intent.category.LEANBACK_LAUNCHER" />
+42-->D:\PROGRAMAS\PelisJunita APK\PelisJuanita2 6.2\app\src\main\AndroidManifest.xml:30:17-86
+42-->D:\PROGRAMAS\PelisJunita APK\PelisJuanita2 6.2\app\src\main\AndroidManifest.xml:30:27-83
+43            </intent-filter>
+44
+45            <!-- Teléfono/tablet también -->
+46            <intent-filter>
+46-->D:\PROGRAMAS\PelisJunita APK\PelisJuanita2 6.2\app\src\main\AndroidManifest.xml:34:13-37:29
+47                <action android:name="android.intent.action.MAIN" />
+47-->D:\PROGRAMAS\PelisJunita APK\PelisJuanita2 6.2\app\src\main\AndroidManifest.xml:29:17-69
+47-->D:\PROGRAMAS\PelisJunita APK\PelisJuanita2 6.2\app\src\main\AndroidManifest.xml:29:25-66
+48
+49                <category android:name="android.intent.category.LAUNCHER" />
+49-->D:\PROGRAMAS\PelisJunita APK\PelisJuanita2 6.2\app\src\main\AndroidManifest.xml:36:17-77
+49-->D:\PROGRAMAS\PelisJunita APK\PelisJuanita2 6.2\app\src\main\AndroidManifest.xml:36:27-74
+50            </intent-filter>
+51        </activity>
+52    </application>
+53
+54</manifest>

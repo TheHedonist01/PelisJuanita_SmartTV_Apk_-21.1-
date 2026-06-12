@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+  Cursor: círculo rojo brillante con borde blanco.
+  Visible sobre cualquier fondo oscuro o claro.
+-->
+<layer-list xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <!-- Sombra exterior -->
+    <item android:top="2dp" android:left="2dp">
+        <shape android:shape="oval">
+            <solid android:color="#66000000" />
+            <size android:width="28dp" android:height="28dp" />
+        </shape>
+    </item>
+
+    <!-- Borde blanco -->
+    <item>
+        <shape android:shape="oval">
+            <solid android:color="#FFFFFF" />
+            <size android:width="28dp" android:height="28dp" />
+        </shape>
+    </item>
+
+    <!-- Círculo rojo principal -->
+    <item android:top="3dp" android:left="3dp" android:bottom="3dp" android:right="3dp">
+        <shape android:shape="oval">
+            <solid android:color="#E8001E" />
+        </shape>
+    </item>
+
+    <!-- Punto central blanco -->
+    <item android:top="10dp" android:left="10dp" android:bottom="10dp" android:right="10dp">
+        <shape android:shape="oval">
+            <solid android:color="#FFFFFF" />
+        </shape>
+    </item>
+
+</layer-list>

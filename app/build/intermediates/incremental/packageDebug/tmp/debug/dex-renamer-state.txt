@@ -1,0 +1,7 @@
+#Fri Jun 12 13:33:26 ART 2026
+base.0=D\:\\PROGRAMAS\\PelisJunita APK\\PelisJuanita2 6.2\\app\\build\\intermediates\\dex\\debug\\mergeProjectDexDebug\\0\\classes.dex
+base.1=D\:\\PROGRAMAS\\PelisJunita APK\\PelisJuanita2 6.2\\app\\build\\intermediates\\dex\\debug\\mergeProjectDexDebug\\15\\classes.dex
+path.0=0/classes.dex
+path.1=15/classes.dex
+renamed.0=classes.dex
+renamed.1=classes2.dex

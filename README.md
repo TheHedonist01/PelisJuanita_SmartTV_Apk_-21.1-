@@ -8,6 +8,8 @@ PelisJuanita TV Bridge transforma una experiencia web tradicional en una aplicac
 
 La aplicación implementa un sistema de cursor virtual avanzado, soporte para reproducción en pantalla completa y optimizaciones específicas para Smart TVs basadas en Android.
 
+-RECOMIENDO AMPLIAMENTE LEER MIS COMENTARIOS DE AUTOR-
+
 ---
 
 ## ✨ Características

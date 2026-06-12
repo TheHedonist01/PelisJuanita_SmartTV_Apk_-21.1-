@@ -19,6 +19,7 @@ La aplicación implementa un sistema de cursor virtual avanzado, soporte para re
 - Movimiento continuo con aceleración progresiva.
 - Auto-scroll horizontal y vertical al alcanzar los bordes de la pantalla.
 - Simulación de eventos táctiles nativos para garantizar compatibilidad con interfaces web y reproductores multimedia.
+- Configuracion personalizada de la web y la velocidad del cursor en opciones (El control remoto debe tener dicho boton)
 
 ### 🎬 Experiencia Multimedia Optimizada
 
@@ -157,7 +158,10 @@ Run > Run App
 
 **Mauro G. Martínez**
 
-Proyecto desarrollado como implementación de una experiencia web adaptada para Android TV mediante tecnologías nativas del ecosistema Android.
+Este proyecto lo hice debido que mis padres usualmente usan la plataforma "PelisJuanita" pero la querian en un televisor y los smartv son RIDICULAMENTE malos con los browsers, asi que hice este puente, lo mas optimizado posible.
+Obviamente lo mio es simplemente un puente para llegar a PelisJuanita, todas las alavanzas van hacia ella y su proyecto extraordinario.
+Dicho esto, usualmente pelisJuanita tiene problemas de conexion debido a problemas de bloqueo, asi que usualmente uso el DNS de Google, ese mismo me funciona en vez de usar el de mi ISP tradicional.
+Un Abrazo y espero que esto le ayude a otra persona como yo ahi afuera.
 
 ---
 
